@@ -25,7 +25,7 @@ This project demonstrates:
 - ✅ Start/Restart functionality
 
 ## 🛠️ Tech Stack
-- **C#** with **.NET Framework 4.6/4.8**  
+- **C#** with **.NET Framework 4.8**  
 - **Windows Presentation Foundation (WPF)** for UI  
 - **XAML** for designing windows (`MainWindow.xaml`, `Victory.xaml`, etc.) 
 
