@@ -1,6 +1,6 @@
 # Pac-Man in C#
 
-A **Pac-Man clone** built in **C#** as a learning project for game development and object-oriented programming.
+A **Pac-Man** built in **C#** as a learning project for game development and object-oriented programming.
 It recreates the classic Pac-Man gameplay with a simple interface, ghosts, pellets, and a score system.
 
 ## 🎯 Game Description
