@@ -46,7 +46,6 @@ This project demonstrates:
 - Victory screen appears after clearing the level  
 
 ## 📖 Learning Goals
-
 This project is designed for educational purposes, helping you learn:
 - How to structure a simple WPF game
 - Handling keyboard events in C#
