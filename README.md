@@ -3,11 +3,11 @@
 A simple remake of the classic **Pac-Man** game, built using **C# and WPF** in Visual Studio.
 
 ## 🕹 Features
-- Classic maze-style gameplay
-- Keyboard controls (arrow keys)
-- Ghost enemies with basic AI
-- Score tracking system
-- Start/Restart functionality
+- ✅ Classic maze-style gameplay
+- ✅ Keyboard controls (arrow keys)
+- ✅ Ghost enemies with basic AI
+- ✅ Score tracking system
+- ✅ Start/Restart functionality
 
 ## 🚀 How to Run
 1. Download the latest `.zip` from the repository.
