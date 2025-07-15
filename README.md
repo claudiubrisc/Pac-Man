@@ -50,4 +50,7 @@ This project is designed for educational purposes, helping you learn:
 - How to structure a simple WPF game
 - Handling keyboard events in C#
 - Collision detection & basic game logic
-- Window navigation between menus and game scenes 
+- Window navigation between menus and game scenes
+
+## 📜 License
+This project is for **educational purposes only**.
