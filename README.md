@@ -9,6 +9,10 @@ A simple remake of the classic **Pac-Man** game, built using **C# and WPF** in V
 - ✅ Score tracking system
 - ✅ Start/Restart functionality
 
+## 🛠️ Tech Stack
+- **.NET Framework / C#**
+- **WPF (Windows Presentation Foundation)**
+
 ## 🚀 How to Run
 1. Download the latest `.zip` from the repository.
 2. Extract the contents.
