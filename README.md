@@ -2,6 +2,20 @@
 
 A simple remake of the classic **Pac-Man** game, built using **C# and WPF** in Visual Studio.
 
+## 🎯 Game Description
+You control **Pac-Man** through a maze filled with pellets.  
+Your objective is simple:
+- Eat all the pellets to clear the level
+- Avoid ghosts moving randomly
+- Collect points and aim for the highest score
+
+This project demonstrates:
+- Basic **game loop** implementation in WPF
+- Handling **keyboard input** for movement
+- **Collision detection** for Pac-Man, ghosts, and pellets
+- Switching **WPF windows** for menus, gameplay, and victory screens
+
+
 ## 🕹 Features
 - ✅ Classic maze-style gameplay
 - ✅ Keyboard controls (arrow keys)
@@ -10,8 +24,9 @@ A simple remake of the classic **Pac-Man** game, built using **C# and WPF** in V
 - ✅ Start/Restart functionality
 
 ## 🛠️ Tech Stack
-- **.NET Framework / C#**
-- **WPF (Windows Presentation Foundation)**
+- **C#** with **.NET Framework 4.6/4.8**  
+- **Windows Presentation Foundation (WPF)** for UI  
+- **XAML** for designing windows (`MainWindow.xaml`, `Victory.xaml`, etc.) 
 
 ## 🚀 How to Run
 1. Download the latest `.zip` from the repository.
@@ -21,3 +36,18 @@ A simple remake of the classic **Pac-Man** game, built using **C# and WPF** in V
 4. Use arrow keys to control Pac-Man.
 
 > ⚠ No installation required. This game runs as a standalone `.exe`.
+
+## 🕹️ Gameplay Rules
+- **Arrow Keys** → Move Pac-Man  
+- Eat all pellets to **win**  
+- Ghosts move randomly – touching them **ends the game**  
+- Score increases for each pellet eaten  
+- Victory screen appears after clearing the level  
+
+## 📖 Learning Goals
+
+This project is designed for educational purposes, helping you learn:
+- How to structure a simple WPF game
+- Handling keyboard events in C#
+- Collision detection & basic game logic
+- Window navigation between menus and game scenes 
